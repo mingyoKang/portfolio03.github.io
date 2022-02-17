@@ -1,6 +1,6 @@
 ---
 title: Reading List
-subtitle: a list of books I read
+subtitle: A list of books I like
 layout: "page"
 icon: fa-book
 order: 3
@@ -24,5 +24,3 @@ And Currently I'm reading:
 1. 한지우: *AI는 인문학을 먹고 산다*
 2. Yuval Noah Harari: *Homo Sapiens*
 
-
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
