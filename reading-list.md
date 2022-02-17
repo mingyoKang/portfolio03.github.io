@@ -6,11 +6,11 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I love books! Here are some I've enjoyed:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
+1. Tanya Byron: *The Sekeleton Cupboard*
+2. Yuval Noah Harari: *21 Lessons for the 21 Century*
+3. J.K.Rowling: *Harry Potter*
 4. Malcolm Lowry: *Under the Volcano*
 5. Virginia Woolf: *The Waves*
 6. James Joyce: *Finnegans Wake*
@@ -18,5 +18,11 @@ I love books! Here are some I'm reading now:
 8. William Thackeray: *Pendennis*
 9. Karl Marx: *Capital*
 10. James Woodforde: *The Diary of A Country Parson*
+
+And Currently I'm reading:
+
+1. 한지우: *AI는 인문학을 먹고 산다*
+2. Yuval Noah Harari: *Homo Sapiens*
+
 
 source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
