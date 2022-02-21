@@ -47,7 +47,7 @@ url: "https://mingyokang.github.io/" # the base hostname & protocol for your sit
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
 twitter_url:
 facebook_url:
-googleplus_url: "https://www.naver.com/"
+googleplus_url:
 instagram_url:
 linkedin_url:
 github_url: "https://github.com/mingyoKang"
