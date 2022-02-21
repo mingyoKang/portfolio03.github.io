@@ -1,10 +1,9 @@
 ---
 title: Skills
-icon: fa-check
-order: 5
+icon: fa-info
+order: 4
 ---
 
-** What I can do
 - Java
 - JavaScript
 - Python
@@ -14,5 +13,3 @@ order: 5
 - JSP/Servlet
 - VSCode
 - Android Studio
-
-![Java logo](\assets\images\java.png "JavaLogo")
