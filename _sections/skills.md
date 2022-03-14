@@ -11,5 +11,5 @@ order: 4
 - JQuery
 - MySQL
 - JSP/Servlet
-- VSCode
+- VS Code
 - Android Studio
