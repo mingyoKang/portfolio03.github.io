@@ -23,8 +23,8 @@ layout: post
 그리고 두 음악의 가사는 더욱더 사랑스러우니 꼭 음미해보길 바란다.
 Hope you enjoy the music!
 
-<span class="image right"><img src="{{ 'assets/images/letsplaytug.jpg' | relative_url }}" alt="heyden" width="400px" height="400px"></span>
-<span class="image left"><img src = "{{ 'assets/images/lany.jpg' | relative_url }}" alt = "lany" width="400px" height="400px"></span>
+<span class="image left"><img src="{{ 'assets/images/letsplaytug.jpg' | relative_url }}" alt="heyden" width="400px" height="400px"></span>
+<span class="image right"><img src = "{{ 'assets/images/lany.jpg' | relative_url }}" alt = "lany" width="400px" height="400px"></span>
 
 
 
