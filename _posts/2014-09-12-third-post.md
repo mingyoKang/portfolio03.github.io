@@ -5,11 +5,15 @@ layout: post
 icon: fa-lightbulb
 icon-style: regular
 ---
-See the icon?
+나의 취미를 알아보자
 
-Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
+<a href= "https://www.facebook.com/rokrofficial">Rokr</a>를 들어본적이 있는지?
+조립 완구를 파는 곳인데, 그 제품들이 거의 성인을 대상으로 한 것이라 꽤나 정교하고 조립하기 어렵다.
+이 곳의 제품을 구매하고 조립하는 것이 나의 취미다.
 
-<span class="image left"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
+조금 오래되긴 했지만, 힘들게 조립했었던 나의 자동차 사진을 올린다.
+
+<span class="image left"><img src="{{ 'assets/images/convertible.jpg' | relative_url }}" alt="convertible" width = "420px" height = "600px"/></span>
 
 Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.
 
