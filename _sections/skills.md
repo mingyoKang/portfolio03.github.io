@@ -5,7 +5,7 @@ order: 4
 ---
 
 # Java
- <p style = "text-align: center; width:600px; marign:0px auto;">Java의 객체 지향적 특징과 더불어 클래스, 객체, 상속, 오버라이딩, 오버로딩 그리고 컬렉션 프레임워크(List,Set, Map), MVC 모델등을 이용해 다양하게 변주하여 사용할 수 있습니다.</p>
+ <p style = "text-align: center; width:600px; margin:0px auto;">Java의 객체 지향적 특징과 더불어 클래스, 객체, 상속, 오버라이딩, 오버로딩 그리고 컬렉션 프레임워크(List,Set, Map), MVC 모델등을 이용해 다양하게 변주하여 사용할 수 있습니다.</p>
 
 # JavaScript
 <p style = "text-align: left;">JavaScript의 기본 문법과 동적 기능을 사용할 수 있으며 JQuery 라이브러리를 통해 훨씬 더 쉽고 다양한 이벤크를 구현할 수 있으며 더불어 비동식 자바스크립트 XML인 Ajax를 이용해 웹페이지의 로딩없이도 화면상의 객체를 즉각적으로 띄울 수 있게 사용할 수 있습니다.</p>
