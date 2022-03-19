@@ -16,9 +16,11 @@ icon-style: regular
 <span class="image left"><img src="{{ 'assets/images/convertible.jpg' | relative_url }}" alt="convertible" width = "420px" height = "600px"/></span>
 
 이런 것들을 조립하면서 작동 원리를 보고 또 깨달아가는 것을 큰 기쁨으로 여긴다.<br>
-어떻게 보면 이 조립하는 것과 개발하는 것은 비슷한거 같다.<br>
-하나 하나씩 쌓이면서 형태를 드러내고,<br>
-과정은 힘들고 고되지만 제품을 완성했을 때 기쁨은 매우 크기때문인거 같다.<br>
+어떻게 보면 조립하는 것과 개발하는 것은 비슷한거 같다.<br>
+
+하나 하나씩 점차 쌓이면서 형태를 드러내고,<br>
+과정은 힘들고 고되지만 제품을 완성했을 때 기쁨은 매우 크기때문인거겠지.<br>
 
 계속해서 열심히 하자고!<br>
+
 Keep up the good work!!
