@@ -19,7 +19,7 @@ I love books! Here are some I've enjoyed:
 6. Sally Rooney: *Normal People*
 7. Paul Kalanithi: *When Breath becomes Air*
 8. Kang Shin-Joo: *Emotion Lessons*
-9. Brené Brown: *Daring Greatly*
+9. Brene Brown: *Daring Greatly*
 10. R. J. Palacio: *Wonder*
 
 그리고 현재 제가 읽고 있는 책들은 
