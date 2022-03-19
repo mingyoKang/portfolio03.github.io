@@ -6,6 +6,9 @@ icon: fa-book
 order: 3
 ---
 
+저는 책 읽는 것을 매우 좋아하는데요,
+아래의 리스트가 제가 잘 읽은 도서들입니다.
+
 I love books! Here are some I've enjoyed:
 
 1. Tanya Byron: *The Sekeleton Cupboard*
@@ -18,6 +21,9 @@ I love books! Here are some I've enjoyed:
 8. Kang Shin-Joo: *Emotion Lessons*
 9. Brené Brown: *Daring Greatly*
 10. R. J. Palacio: *Wonder*
+
+그리고 현재 제가 읽고 있는 책들은 
+아래와 같습니다.
 
 And currently I'm reading:
 
