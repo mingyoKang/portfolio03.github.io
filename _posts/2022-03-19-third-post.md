@@ -2,8 +2,6 @@
 title: Third Post
 author: MingyoKang
 layout: post
-icon: fa-lightbulb
-icon-style: regular
 ---
 나의 취미를 알아보자
 
