@@ -20,10 +20,10 @@ order: 4
 <p style = "width:740px; margin:20px auto;">CSS3를 웹 문서를 꾸미는 데 사용할 수 있으며 CSS의 프레임워크인 BootStrap을 이용하여 웹 문서를 보다 동적이게 보이도록 응용할 수 있습니다.</p>
 
 # GitHub
-<p style = "width:740px; margin:20px auto;">모든 프로젝트를 GitHub에 저장해 소스 코드를 관리하고 있으며 이를 활용하여 팀 프로젝트를 한 경험이 있고 현재는 포트폴리오 사이트를 관리하고 있습니다.</p>
+<p style = "width:740px; margin:20px auto;">모든 프로젝트를 GitHub에 저장해 소스 코드를 관리하고 있으며 이를 활용하여 팀 프로젝트를 경험했고 현재는 포트폴리오 사이트를 관리하고 있습니다.</p>
 
 # SQL
-<p style = "width:740px; margin:20px auto;">SQL을 기본적으로 활용할 수 있으며 DBMS로는 MySQL을 사용한 경험이 있습니다.</p>
+<p style = "width:740px; margin:20px auto;">SQL을 기본적으로 활용할 수 있고 DBMS로는 MySQL을 사용한 경험이 있습니다.</p>
 
 # JSP/Servlet
 <p style = "width:740px; margin:20px auto;">둘의 기본적인 문법과 사용법을 익혀 웹 페이지를 동적으로 동작하게 할 수 있으며 제가 기획한 "SnackWar" 프로젝트 또한 이 기술을 중심으로 활용해 만들었습니다.</p>
