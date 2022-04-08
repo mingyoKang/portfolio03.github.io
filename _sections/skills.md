@@ -28,4 +28,7 @@ order: 4
 # JSP/Servlet
 <p style = "width:700px; margin:10px auto;">둘의 기본적인 문법과 사용법을 익혀 웹 페이지를 동적으로 동작하게 할 수 있으며 제가 기획한 "SnackWar" 프로젝트 또한 이 기술을 중심으로 활용해 만들었습니다.</p>
 
+# Spring
+<p style = "width:700px; margin:10px auto;">스프링의 기본과 DI와 AOP의 개념, 데이터베이스, ORM 연동 및 트랜잭션 관리와 MVC 패턴을 활용할 수 있습니다. 현재 계속해서 학습하고 있는 프레임워크입니다.</p>
+
 
