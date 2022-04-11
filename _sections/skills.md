@@ -1,7 +1,7 @@
 ---
 title: Skills
 icon: fa-info
-order: 4
+order: 3
 ---
 
 # Java
