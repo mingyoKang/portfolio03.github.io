@@ -29,5 +29,5 @@ And currently I'm reading:
 
 1. 한지우: *AI는 인문학을 먹고 산다*
 2. Yuval Noah Harari: *Homo Sapiens*
-3. Almond: *Won-pyung Sohn*
+3. Won-pyung Sohn: *Almond*
 
