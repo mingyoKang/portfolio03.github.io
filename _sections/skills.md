@@ -9,7 +9,7 @@ order: 3
 <p style = "font-size:20px; width:900px; margin:25px auto;">프로그래밍 언어의 처음 시작은 Python이었습니다. 기본적인 Python언어에 대한 이해도를 높이고 이어서 Java와 Android App 개발 과정을 수료했습니다. Java의 객체 지향적 특성과 문법을 이해하고 현재는 Spring 프레임워크를 공부하고 있습니다. 간단한 웹 서비스를 구현할 수 있으며 
 DBMS로는 MySQL과 MariaDB를 사용하며 데이터를 관리할 수 있습니다. 지금은 생각만 하던 서비스를 웹으로 출시할 수 있도록 안드로이드에 대한 공부도 계속해서 하고 있습니다.</p>
 
-<hr style = "color: black; width: 600px; height: 3px; background-color:gold;">
+<hr style = "color: black; width: 600px; height: 3px; background-color:gold; margin-bottom:30px;">
 
 # Java
  <p style = "width:820px; margin:20px auto; font-size:22px;">Java의 객체 지향적 특징과 더불어 클래스, 객체, 상속, 오버라이딩, 오버로딩 그리고 컬렉션 프레임워크(List,Set, Map), MVC 모델등을 이용해 다양하게 변주하여 사용할 수 있습니다.</p>
