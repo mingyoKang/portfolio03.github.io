@@ -43,7 +43,7 @@ DBMS로는 MySQL과 MariaDB를 사용하며 데이터를 관리할 수 있습니
 <hr style = "color: black; width: 800px; height: 3px; background-color:gold;">
 <br>
 
-# <개발 블로그>
+# [개발 블로그]
 <p style = "margin:20px auto;">활발하게 운영중이며, 매일매일 학습한 내용을 올리고 있습니다.</p>
 <a href = "https://alsry.tistory.com/"><img src = "assets/images/coding_blog.PNG" width="200px;" height="200px;" style ="border: 2px solid white"></a>
 
