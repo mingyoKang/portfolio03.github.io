@@ -40,12 +40,12 @@ DBMS로는 MySQL과 MariaDB를 사용하며 데이터를 관리할 수 있습니
 <p style = "width:820px; margin:20px auto; font-size:22px;">스프링의 기본과 DI와 AOP의 개념, 데이터베이스, ORM 연동 및 트랜잭션 관리와 MVC 패턴을 활용할 수 있습니다. 현재 계속해서 학습하고 있는 프레임워크입니다.</p>
 
 <br>
-<hr style = "color: black; width: 800px; height: 3px; background-color:tomato;">
+<hr style = "color: black; width: 800px; height: 3px; background-color:gold;">
 <br>
 
-# 활발하게 운영중인 개발 블로그도 있습니다.
-<p style = "margin:20px auto;">매일 학습한 내용을 올리고 있습니다.</p>
-<a href = "https://alsry.tistory.com/"><img src = "assets/images/coding_blog.PNG" width="200px;" height="200px;"></a>
+# <개발 블로그>
+<p style = "margin:20px auto;">활발하게 운영중이며, 매일매일 학습한 내용을 올리고 있습니다.</p>
+<a href = "https://alsry.tistory.com/"><img src = "assets/images/coding_blog.PNG" width="200px;" height="200px;" style ="border: 2px solid white"></a>
 
 
 
