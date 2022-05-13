@@ -39,4 +39,12 @@ DBMS로는 MySQL과 MariaDB를 사용하며 데이터를 관리할 수 있습니
 # Spring
 <p style = "width:820px; margin:20px auto; font-size:22px;">스프링의 기본과 DI와 AOP의 개념, 데이터베이스, ORM 연동 및 트랜잭션 관리와 MVC 패턴을 활용할 수 있습니다. 현재 계속해서 학습하고 있는 프레임워크입니다.</p>
 
+<hr style = "color: black; width: 800px; height: 3px; background-color:tomato;">
+
+
+# 활발하게 운영중인 개발 블로그도 있습니다.
+매일 학습한 내용을 올리고 있습니다.
+<a href = "https://alsry.tistory.com/" class = "image fit"><img src = "assets/images/coding_blog.PNG"></a>
+
+
 
